@@ -100,7 +100,8 @@ The valid SQL statement would look like this:
 Result
 SELECT * FROM Users WHERE UserId = 105; DROP TABLE Suppliers;
 Use SQL Parameters for Protection
-To protect a web site from SQL injection, you can use SQL parameters.
+
+# To protect a web site from SQL injection, you can use SQL parameters.
 
 SQL parameters are values that are added to an SQL query at execution time, in a controlled manner.
 
